@@ -7,9 +7,10 @@
 
 <br>
 
-### B. (Link Download)
-<p>https://drive.google.com/open?id=0B7xIYAbPNmFEREcwVUhWQmF2dzQ</p>
-
+### B. (ScreenShot)
+![Screenshot 1](https://s10.postimg.io/5u642behl/Capture1.png)<br>
+![Screenshot 2](https://s12.postimg.io/w2t39unst/Capture2.png)<br>
+![Screenshot 3](https://s16.postimg.io/p7aa6up5h/Capture3.png)<br>
 <br>
 
 ### C. (Data Kelompok)
